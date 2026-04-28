@@ -15,16 +15,14 @@ I'm passionate about **AI, finance, and emerging markets**. I build large-scale 
 | Project   | Description | Stack |
 |-----------|-------------|-------|
 | [**FuelGo**](https://github.com/aliceparedes/fuel-web) | Real-time fuel-price tracker, find the cheapest fuel anywhere! | TypeScript · React Native · Supabase · Google Maps |
-| [**LaborFlex Agent**](https://github.com/aliceparedes/laborflexagent) | Will your job be replaced by AI?, Agent for labor statistics analysis | Python · LLMs |
+| [**LaborFlex Agent**](https://github.com/aliceparedes/laborflexagent) | Will your job be replaced by AI? Agent for labor statistics analysis | Python · LLMs |
 ---
 
-## Projects
+## Impactful Projects
 
-[**CovenAI**](https://aliceparedes.com) — End-to-end AI for enterprise credit-risk monitoring, built during my summer at [Interbank](https://interbank.pe). Parses credit agreements and financial statements with LLMs, computes financial ratios, validates covenants against dynamic thresholds, and flags issues automatically. Designed to scale as a SaaS across financial institutions.
+[**CovenAI**](https://aliceparedes.com) @ Interbank — End-to-end AI for enterprise credit-risk monitoring, built during my summer at [Interbank](https://interbank.pe). Parses credit agreements and financial statements with LLMs, computes financial ratios, validates covenants against dynamic thresholds, and flags issues automatically. Designed to scale as a SaaS across financial institutions.
 
-[**FuelGo**](https://github.com/aliceparedes/fuel-web) — A mobile and web app tracking real-time gas prices across Lima. Geospatial architecture on Supabase/PostgreSQL, Google Maps for proximity search, and a B2B path aimed at fleet clients. *Started as personal frustration; turned into a product.*
-
-[**LaborFlex Agent**](https://github.com/aliceparedes/laborflexagent) — A Python AI agent focused on labor policy. *More on this soon.*
+[**CMB**] @ IFC — A mobile and web app tracking real-time gas prices across Lima. Geospatial architecture on Supabase/PostgreSQL, Google Maps for proximity search, and a B2B path aimed at fleet clients. *Started as personal frustration; turned into a product.*
 
 ---
 
