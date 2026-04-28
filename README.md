@@ -7,7 +7,7 @@ I'm an Economics & Information Science student at [Columbia University](https://
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9BCBEB?style=flat-square&labelColor=9BCBEB&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aliceparedes/)
 
 ---
-I'm passionate about **AI, finance, and emerging market**, building large-scale tools for institutions, but also products that solve our everyday problems. The question I keep coming back to: how can this be done better, for everyone? My favorite projects are the challenging ones real data, real users, and high-impact solutions.
+I'm passionate about **AI, finance, and emerging markets**. I build large-scale tools for institutions, but also products that solve everyday problems. The question I keep coming back to: how can this be done better, for everyone? My favorite projects are the challenging ones: real data, real users, and high-impact solutions.
 
 ---
 
