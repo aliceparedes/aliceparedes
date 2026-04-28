@@ -1,4 +1,4 @@
-# Hi, I'm Alice 🌸
+# Hi, I'm Alice ☁️
 
 I'm an Economics & Information Science student at [Columbia University](https://columbia.edu) and [Sciences Po Paris](https://sciencespo.fr), with a minor in Artificial Intelligence. Originally from Lima, currently in New York.
 
