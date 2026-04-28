@@ -43,9 +43,4 @@ Co-founder of [**ConexEDU**](https://aliceparedes.com), a national education NGO
   <em>Thank you for stopping by ☁️</em>
 </p>
 
-  ─── EMOJI ───────────────────────────────────────────────────
-  ☁️ in the H1 and the closing — soft, sky-colored, fits Columbia blue
-  Other options if you want something different:
-    🕊️ dove · 💎 (light blue gem) · 🐬 dolphin · 🌀 cyclone · 🦋 butterfly
-
 
