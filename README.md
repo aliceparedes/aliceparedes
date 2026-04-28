@@ -49,31 +49,9 @@ Co-founder of [**ConexEDU**](https://aliceparedes.com), a national education NGO
   <em>Thank you for stopping by ☁️</em>
 </p>
 
-<!--
-  ─── PALETTE ─────────────────────────────────────────────────
-  Columbia blue   #9BCBEB   (visits + LinkedIn badges)
-  Soft sky        #C4DFE6   (optional pale accent)
-  Deep navy       #003DA5   (Portfolio anchor color)
-
   ─── EMOJI ───────────────────────────────────────────────────
   ☁️ in the H1 and the closing — soft, sky-colored, fits Columbia blue
   Other options if you want something different:
     🕊️ dove · 💎 (light blue gem) · 🐬 dolphin · 🌀 cyclone · 🦋 butterfly
 
-  ─── BADGES (in order) ───────────────────────────────────────
-  1. Profile views — Columbia blue #9BCBEB
-  2. Portfolio — Deep navy #003DA5 (anchor / most important link)
-  3. LinkedIn — Columbia blue #9BCBEB
 
-  ─── PERSONALIZE BEFORE PUBLISHING ───────────────────────────
-  • The "small things" italic line — replace with things actually
-    true for you (currently: coffee, bookstores, Lima winters)
-  • Research interests italics — adjust to what you actually want
-    to be known for studying
-  • The "open to..." closing line — confirm role types match your
-    summer 2026 search
-
-  ─── ALSO ────────────────────────────────────────────────────
-  Repo name must be exactly "aliceparedes"
-  Confirm LinkedIn URL — I used /in/aliceparedes/, swap if different
--->
