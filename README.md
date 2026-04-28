@@ -8,6 +8,7 @@ I'm an Economics & Information Science student at [Columbia University](https://
 
 ---
 I'm passionate about **AI, finance, and emerging markets**. I build large-scale tools for institutions and products that solve everyday problems. The question I love is: how can this be done better, for everyone? My favorite projects are the challenging ones: real data, real users, and **high-impact solutions**.
+
 ---
 ## Recent Work!
 
