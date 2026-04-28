@@ -8,8 +8,7 @@ I'm an Economics & Information Science student at [Columbia University](https://
 
 ---
 
-I work at the intersection of **AI, finance, and emerging markets** — building tools for systems that still mostly run on PDFs and Excel. Most of what I make begins with the same question: *what is someone doing by hand right now that one good piece of software could let them stop doing?* My favorite problems are the ones where the data is messy and the stakes are real.
-
+I'm passionate about **AI, finance, and emerging markets** building large-scale tools for institutions, but products that solve everyday problems. The question I keep coming back to: how can this be done better, for everyone? My favorite projects are the challenging ones, real data, real users, and high-impact solutions.
 ---
 
 ## Selected Work
