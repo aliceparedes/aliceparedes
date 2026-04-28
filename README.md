@@ -22,8 +22,7 @@ I'm passionate about **AI, finance, and emerging markets**. I build large-scale 
 
 **CovenAI** @ [Interbank](https://interbank.pe) — AI automation for credit-risk covenant monitoring. LLM parsing, financial ratio computation, and validating covenants against dynamic thresholds, saving 120+ hours of work. Designed to scale as SaaS across banking institutions.
 
-**Stock Market Forecasting** @ [Columbia University](https://seas.columbia.edu) — Identifies trends, volatility patterns, and predictive signals through time series analysis of the Peruvian stock market.
-
+**Peruvian Stock Forecasting** @ [Columbia](https://seas.columbia.edu) — Identifies trends, volatility patterns, and predictive signals through time series analysis
 ## Skills
 
 ```
