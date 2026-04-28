@@ -50,21 +50,6 @@ Spoken       Spanish (native) · English (bilingual) · French (fluent)
 
 Co-founder of [**ConexEDU**](https://aliceparedes.com), a national education NGO accredited by Peru's Ministry of Education that's reached 100+ students across Latin America · Inaugural member of **UNICEF Peru's Youth & Adolescent Advisory Committee**, the first such committee in Latin America · **Teen Advisor** at the [UN Foundation's Girl Up](https://girlup.org), working alongside partners like JPMorgan Chase, Hershey, and Booz Allen Hamilton.
 
----
-
-## Background
-
-Dual BA in Economics (Columbia & Sciences Po Paris) · Minor in Artificial Intelligence · Columbia Institutional Scholarship · [Émile Boutmy Scholar](https://www.sciencespo.fr/students/en/apply/admissions/scholarships/emile-boutmy-scholarship.html) · Be The Boss Scholarship (2024) · Margaret Sanders Scholarship (2023) · AMISA Global Citizen Award (2023).
-Research interests: *AI for credit risk · fintech in emerging markets · financial inclusion · the economics of information.*
-
----
-
-*I'm partial to long mornings with coffee, dusty bookstores, and Lima winters when the ocean is gray.*
-
----
-
-*Open to summer 2026 internships in AI/ML engineering, fintech, and emerging-market research, and to conversations about credit risk, Latin American tech, or building software for institutions that still run on Excel.*
-
 <p align="center">
   <em>Thank you for stopping by ☁️</em>
 </p>
