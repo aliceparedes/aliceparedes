@@ -16,7 +16,6 @@ I'm passionate about **AI, finance, and emerging markets**. I build large-scale 
 |-----------|-------------|-------|
 | [**FuelGo**](https://github.com/aliceparedes/fuel-web) | Real-time fuel-price tracker, find the cheapest fuel anywhere! | TypeScript · React Native · Supabase · Google Maps |
 | [**LaborFlex Agent**](https://github.com/aliceparedes/laborflexagent) | Will your job be replaced by AI? Agent for statistical analysis | Python · LLMs |
----
 
 ## Impactful Projects
 
