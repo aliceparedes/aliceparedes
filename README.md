@@ -30,8 +30,7 @@ I'm passionate about **AI, finance, and emerging markets**. I build large-scale 
 Languages    Python · R · SQL · TypeScript · JavaScript · Java
 Frameworks   React Native · Expo · Pandas · NumPy
 Data         Supabase (PostgreSQL) · Power BI · Tableau · Excel (advanced)
-AI           LLM applications · prompt engineering · workflow automation
-
+AI           LLM applications · workflow automation
 ```
 
 ---
