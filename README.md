@@ -20,9 +20,9 @@ I'm passionate about **AI, finance, and emerging markets**. I build large-scale 
 
 ## Impactful Projects
 
-[**CovenAI**](https://aliceparedes.com) @ Interbank — AI automation for credit-risk covenant monitoring. LLM pasing, financial ratios computation, and validation covenants against dynamic thresholds, saving 120+ hours of work. Designed to scale as SaaS across banking institutions.
+**CovenAI** @ [Interbank](https://interbank.pe) — AI automation for credit-risk covenant monitoring. LLM parsing, financial ratio computation, and validating covenants against dynamic thresholds, saving 120+ hours of work. Designed to scale as SaaS across banking institutions.
 
-[**Stock Market Forecasting**](https://aliceparedes.com) @ Columbia University — Identifies trends, volatility patterns, and predictive signals through time series analysis of the Peruvian stock market. 
+**Stock Market Forecasting** @ [Columbia SEAS](https://seas.columbia.edu) — Identifies trends, volatility patterns, and predictive signals through time series analysis of the Peruvian stock market.
 
 ## Skills
 
@@ -34,13 +34,8 @@ AI           LLM applications · workflow automation
 ```
 
 ---
-
-## Beyond the code
-
-Co-founder of [**ConexEDU**](https://aliceparedes.com), a national education NGO accredited by Peru's Ministry of Education that's reached 100+ students across Latin America · Inaugural member of **UNICEF Peru's Youth & Adolescent Advisory Committee**, the first such committee in Latin America · **Teen Advisor** at the [UN Foundation's Girl Up](https://girlup.org), working alongside partners like JPMorgan Chase, Hershey, and Booz Allen Hamilton.
-
 <p align="center">
-  <em>Thank you for stopping by ☁️</em>
+  <em>Thank you for stopping by, always happy to chat! ☁️</em>
 </p>
 
 
