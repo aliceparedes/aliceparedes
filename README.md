@@ -2,13 +2,9 @@
 
 I'm an Economics & Information Science student at [Columbia University](https://columbia.edu), in the dual degree with [Sciences Po Paris](https://sciencespo.fr). Minoring in Artificial Intelligence. Based between New York and Lima.
 
-<p align="center">
-  <a href=""><img src="https://komarev.com/ghpvc/?username=aliceparedes&style=for-the-badge&color=9BCBEB&labelColor=9BCBEB&label=PROFILE+VIEWS" alt="Profile views" /></a>
-  &nbsp;
-  <a href="https://aliceparedes.com"><img src="https://img.shields.io/badge/PORTFOLIO-aliceparedes.com-9BCBEB?style=for-the-badge&labelColor=9BCBEB&logo=internetarchive&logoColor=ffffff" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/aliceparedes/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-9BCBEB?style=for-the-badge&labelColor=9BCBEB&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
-</p>
+[![Profile views](https://komarev.com/ghpvc/?username=aliceparedes&style=flat-square&color=9BCBEB&labelColor=9BCBEB&label=profile+views)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-aliceparedes.com-9BCBEB?style=flat-square&labelColor=9BCBEB&logo=internetarchive&logoColor=ffffff)](https://aliceparedes.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9BCBEB?style=flat-square&labelColor=9BCBEB&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aliceparedes/)
 
 ---
 
