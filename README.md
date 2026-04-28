@@ -1,6 +1,6 @@
 # Hi, I'm Alice ☁️
 
-I'm an Economics & Information Science student at [Columbia University](https://columbia.edu) and [Sciences Po Paris](https://sciencespo.fr), with a minor in Artificial Intelligence. Originally from Lima, currently in New York.
+I'm an Economics & Information Science student at [Columbia University](https://columbia.edu), in the dual degree with [Sciences Po Paris](https://sciencespo.fr), with a minor in Artificial Intelligence. Based between New York and Lima
 
 [![Available — Summer 2026](https://img.shields.io/badge/Available-Summer_2026-e8b4b8?style=flat-square)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-aliceparedes.com-d4a574?style=flat-square)](https://aliceparedes.com)
