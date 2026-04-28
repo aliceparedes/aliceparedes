@@ -26,8 +26,6 @@ Frameworks   React Native · Expo · Pandas · NumPy
 Data         Supabase (PostgreSQL) · Power BI · Tableau · Excel (advanced)
 AI           LLM applications · workflow automation
 ```
-
----
 <h4 align="center">
   Thank you for stopping by, always happy to chat! ☁️
 </h4>
