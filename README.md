@@ -34,8 +34,7 @@ AI           LLM applications · workflow automation
 ```
 
 ---
-<p align="center">
-  <em>Thank you for stopping by, always happy to chat! ☁️ </em>
-</p>
-
+<h4 align="center">
+  <em>Thank you for stopping by, always happy to chat! ☁️</em>
+</h4>
 
