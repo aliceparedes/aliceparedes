@@ -20,10 +20,9 @@ I'm passionate about **AI, finance, and emerging markets**. I build large-scale 
 
 ## Impactful Projects
 
-[**CovenAI**](https://aliceparedes.com) @ Interbank — AI automation for credit-risk covenant monitoring. LLM pasing, financial ratios computation, and validation covenants against dynamic thresholds, saving 120h+. Designed to scale as a SaaS across banking institutions.
+[**CovenAI**](https://aliceparedes.com) @ Interbank — AI automation for credit-risk covenant monitoring. LLM pasing, financial ratios computation, and validation covenants against dynamic thresholds, saving 120+ hours of work. Designed to scale as SaaS across banking institutions.
 
-[**CMB**](https://aliceparedes.com) @ IFC — A mobile and web app tracking real-time gas prices across Lima. Geospatial architecture on Supabase/PostgreSQL, Google Maps for proximity search, and a B2B path aimed at fleet clients. *Started as personal frustration; turned into a product.*
-
+[**Stock Market Forecasting**](https://aliceparedes.com) @ Columbia University — Identifies trends, volatility patterns, and predictive signals through time series analysis.
 ---
 
 ## Skills
