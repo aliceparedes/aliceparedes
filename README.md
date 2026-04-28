@@ -11,16 +11,12 @@ I'm passionate about **AI, finance, and emerging markets**. I build large-scale 
 
 ---
 
-## Selected Work
+## Recent Work!
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **CovenAI** | LLM-driven covenant monitoring at [Interbank](https://interbank.pe) · 100+ hours of manual analysis → near real-time | Python · LLMs · SQL |
 | [**FuelGo**](https://github.com/aliceparedes/fuel-web) | Real-time fuel-price tracker for Lima · geospatial pricing & B2B fleet monetization | TypeScript · React Native · Supabase · Google Maps |
 | [**LaborFlex Agent**](https://github.com/aliceparedes/laborflexagent) | AI agent for labor-policy analysis | Python · LLMs |
-| Credit Cooperatives, Uganda | Capital-allocation framework for funding sustainability | R · Excel · with [GRC Group](https://grcconsultinggroup.com) |
-| Munich Tech Hub | Financial roadmap & market benchmarking | Strategy · with GRC Group |
-
 ---
 
 ## Projects
