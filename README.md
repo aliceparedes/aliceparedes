@@ -22,8 +22,7 @@ I'm passionate about **AI, finance, and emerging markets**. I build large-scale 
 
 [**CovenAI**](https://aliceparedes.com) @ Interbank — AI automation for credit-risk covenant monitoring. LLM pasing, financial ratios computation, and validation covenants against dynamic thresholds, saving 120+ hours of work. Designed to scale as SaaS across banking institutions.
 
-[**Stock Market Forecasting**](https://aliceparedes.com) @ Columbia University — Identifies trends, volatility patterns, and predictive signals through time series analysis.
----
+[**Stock Market Forecasting**](https://aliceparedes.com) @ Columbia University — Identifies trends, volatility patterns, and predictive signals through time series analysis of the Peruvian stock market. 
 
 ## Skills
 
@@ -32,8 +31,7 @@ Languages    Python · R · SQL · TypeScript · JavaScript · Java
 Frameworks   React Native · Expo · Pandas · NumPy
 Data         Supabase (PostgreSQL) · Power BI · Tableau · Excel (advanced)
 AI           LLM applications · prompt engineering · workflow automation
-Tools        Git · Google Maps API · Power Automate · cloud deployment
-Spoken       Spanish (native) · English (bilingual) · French (fluent)
+
 ```
 
 ---
