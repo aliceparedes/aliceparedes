@@ -2,9 +2,9 @@
 
 I'm an Economics & Information Science student at [Columbia University](https://columbia.edu), in the dual degree with [Sciences Po Paris](https://sciencespo.fr). Minoring in Artificial Intelligence. Based between New York and Lima.
 
-[![Profile views](https://komarev.com/ghpvc/?username=aliceparedes&style=flat-square&color=83c5be&label=visits)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-aliceparedes.com-006d77?style=flat-square)](https://aliceparedes.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-83c5be?style=flat-square)](https://www.linkedin.com/in/aliceparedes/)
+[![Profile views](https://komarev.com/ghpvc/?username=aliceparedes&style=flat-square&color=9BCBEB&label=visits)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-aliceparedes.com-9BCBEB?style=flat-square)](https://aliceparedes.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9BCBEB?style=flat-square)](https://www.linkedin.com/in/aliceparedes/)
 
 ---
 
@@ -67,30 +67,32 @@ Research interests: *AI for credit risk · fintech in emerging markets · financ
 *Open to summer 2026 internships in AI/ML engineering, fintech, and emerging-market research, and to conversations about credit risk, Latin American tech, or building software for institutions that still run on Excel.*
 
 <p align="center">
-  <em>Thank you for stopping by 🌊</em>
+  <em>Thank you for stopping by ☁️</em>
 </p>
 
 <!--
   ─── PALETTE ─────────────────────────────────────────────────
-  Dusty teal     #83c5be   (badges, accents)
-  Sea cream      #edf6f9   (lightest accent, optional)
-  Deep teal      #006d77   (anchor color, portfolio link)
+  Columbia blue   #9BCBEB   (visits + LinkedIn badges)
+  Soft sky        #C4DFE6   (optional pale accent)
+  Deep navy       #003DA5   (Portfolio anchor color)
 
   ─── EMOJI ───────────────────────────────────────────────────
-  🌊 in the H1 and the closing — Lima coast / ocean nod
-  
-  ─── BADGES NOW INCLUDED (in order) ──────────────────────────
-  1. Profile views counter (komarev) — dusty teal #83c5be
-  2. Portfolio badge — deep teal #006d77
-  3. LinkedIn badge — dusty teal #83c5be
+  ☁️ in the H1 and the closing — soft, sky-colored, fits Columbia blue
+  Other options if you want something different:
+    🕊️ dove · 💎 (light blue gem) · 🐬 dolphin · 🌀 cyclone · 🦋 butterfly
+
+  ─── BADGES (in order) ───────────────────────────────────────
+  1. Profile views — Columbia blue #9BCBEB
+  2. Portfolio — Deep navy #003DA5 (anchor / most important link)
+  3. LinkedIn — Columbia blue #9BCBEB
 
   ─── PERSONALIZE BEFORE PUBLISHING ───────────────────────────
-  • The "small things" italic line — replace with things that are
-    actually true for you (currently: coffee, bookstores, Lima winters)
+  • The "small things" italic line — replace with things actually
+    true for you (currently: coffee, bookstores, Lima winters)
   • Research interests italics — adjust to what you actually want
     to be known for studying
-  • The "open to..." line — confirm the role types match what you
-    want for summer 2026
+  • The "open to..." closing line — confirm role types match your
+    summer 2026 search
 
   ─── ALSO ────────────────────────────────────────────────────
   Repo name must be exactly "aliceparedes"
