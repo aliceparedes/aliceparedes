@@ -1,10 +1,10 @@
 # Hi, I'm Alice ☁️
 
-I'm an Economics & Information Science student at [Columbia University](https://columbia.edu), in the dual degree with [Sciences Po Paris](https://sciencespo.fr), with a minor in Artificial Intelligence. Based between New York and Lima
+I'm an Economics & Information Science student at [Columbia University](https://columbia.edu), in the dual degree with [Sciences Po Paris](https://sciencespo.fr). Minoring in Artificial Intelligence. Based between New York and Lima.
 
-[![Available — Summer 2026](https://img.shields.io/badge/Available-Summer_2026-e8b4b8?style=flat-square)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-aliceparedes.com-d4a574?style=flat-square)](https://aliceparedes.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-c9a0dc?style=flat-square)](https://www.linkedin.com/in/aliceparedes/)
+[![Profile views](https://komarev.com/ghpvc/?username=aliceparedes&style=flat-square&color=83c5be&label=visits)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-aliceparedes.com-006d77?style=flat-square)](https://aliceparedes.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-83c5be?style=flat-square)](https://www.linkedin.com/in/aliceparedes/)
 
 ---
 
@@ -67,47 +67,31 @@ Research interests: *AI for credit risk · fintech in emerging markets · financ
 *Open to summer 2026 internships in AI/ML engineering, fintech, and emerging-market research, and to conversations about credit risk, Latin American tech, or building software for institutions that still run on Excel.*
 
 <p align="center">
-  <em>Thank you for stopping by ✿</em>
+  <em>Thank you for stopping by 🌊</em>
 </p>
 
 <!--
-  ─── DESIGN NOTES ────────────────────────────────────────────
+  ─── PALETTE ─────────────────────────────────────────────────
+  Dusty teal     #83c5be   (badges, accents)
+  Sea cream      #edf6f9   (lightest accent, optional)
+  Deep teal      #006d77   (anchor color, portfolio link)
+
+  ─── EMOJI ───────────────────────────────────────────────────
+  🌊 in the H1 and the closing — Lima coast / ocean nod
   
-  CUTE-BUT-PROFESSIONAL TOUCHES INCLUDED:
-    • Three soft pill badges at top (rose, honey, lavender hex codes)
-    • Skills section as Jorge-style aligned code block
-    • Hyperlinks on every institution / partner / award where possible
-    • Italic "small things" one-liner instead of a bullet list
-    • Italic "open to..." closing line — Jorge's strongest move
-    • Soft sign-off "Thank you for stopping by ✿"
-    • Single 🌸 in the H1 — the only emoji in headers
-    • Em-dashes everywhere (—) — small typography choice that reads as careful
-  
-  GADGETS REMOVED (as requested):
-    ✗ Gradient header banner
-    ✗ Quote of the day card
-    ✗ Stats / streak / activity gadgets
-    ✗ Snake animation
-    ✗ Profile views counter
-  
-  LINKS YOU MAY WANT TO REPLACE:
-    • CovenAI → currently linked to your portfolio; swap for a writeup
-      or case study URL when ready (or remove the link)
-    • ConexEDU → currently linked to portfolio; swap for the NGO's
-      actual site if it has one
-    • Émile Boutmy Scholar — confirm the Sciences Po URL still resolves
-  
-  PERSONALIZE BEFORE PUBLISHING:
-    • "Available — Summer 2026" badge — change/remove if you don't want
-      a status indicator. Easy to swap to "Open to opportunities"
-    • Research interests italics — these are inferred from your CV;
-      adjust to what you actually want to be known for studying
-    • The "small things" line (coffee / bookstores / Lima winters) —
-      replace with three things that are actually true for you.
-      The line only works if it's specific and real.
-    • The "open to..." closing — make sure the role types match what
-      you actually want for summer 2026
-  
+  ─── BADGES NOW INCLUDED (in order) ──────────────────────────
+  1. Profile views counter (komarev) — dusty teal #83c5be
+  2. Portfolio badge — deep teal #006d77
+  3. LinkedIn badge — dusty teal #83c5be
+
+  ─── PERSONALIZE BEFORE PUBLISHING ───────────────────────────
+  • The "small things" italic line — replace with things that are
+    actually true for you (currently: coffee, bookstores, Lima winters)
+  • Research interests italics — adjust to what you actually want
+    to be known for studying
+  • The "open to..." line — confirm the role types match what you
+    want for summer 2026
+
   ─── ALSO ────────────────────────────────────────────────────
   Repo name must be exactly "aliceparedes"
   Confirm LinkedIn URL — I used /in/aliceparedes/, swap if different
