@@ -1,4 +1,4 @@
-# Hello! I'm Alice ᢉ𐭩
+# Hello, I'm Alice! ᢉ𐭩
 
 Economics & Information Science student at [Columbia University](https://columbia.edu), in the dual degree with [Sciences Po Paris](https://sciencespo.fr). Minoring in Artificial Intelligence. Based between New York and Lima.
 
