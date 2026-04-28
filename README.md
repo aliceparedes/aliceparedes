@@ -2,7 +2,7 @@
 
 I'm an Economics & Information Science student at [Columbia University](https://columbia.edu), in the dual degree with [Sciences Po Paris](https://sciencespo.fr). Minoring in Artificial Intelligence. Based between New York and Lima.
 
-[![Profile views](https://komarev.com/ghpvc/?username=aliceparedes&style=flat-square&color=9BCBEB&labelColor=9BCBEB&label=profile+views)]()
+[![Aura Points](https://komarev.com/ghpvc/?username=aliceparedes&style=flat-square&color=9BCBEB&labelColor=9BCBEB&label=profile+views)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-aliceparedes.com-9BCBEB?style=flat-square&labelColor=9BCBEB&logo=internetarchive&logoColor=ffffff)](https://aliceparedes.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9BCBEB?style=flat-square&labelColor=9BCBEB&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aliceparedes/)
 
