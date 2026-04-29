@@ -1,6 +1,6 @@
 # Hello! I'm Alice Paredes ᵕ̈
 
-Economics & Information Science student at [Columbia University](https://columbia.edu), in the dual degree with [Sciences Po Paris](https://sciencespo.fr). Minoring in Artificial Intelligence. **Building tools for institutions and high-impact products that serve people**
+Economics & Information Science student at [Columbia University](https://columbia.edu), in the dual degree with [Sciences Po Paris](https://sciencespo.fr). Minoring in Artificial Intelligence. **Building tools for institutions and high-impact products that serve people.**
 
 [![Profile views](https://komarev.com/ghpvc/?username=aliceparedes&style=flat-square&color=9BCBEB&label=profile+views)]()
 [![Website](https://img.shields.io/badge/website-aliceparedes.com-9BCBEB?style=flat-square&labelColor=9BCBEB&logo=internetarchive&logoColor=ffffff)](https://aliceparedes.com)
